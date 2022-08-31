@@ -1,0 +1,1 @@
+This website will consist of a main index page with links to a few recipes using only HTML tags. Not pretty at the beginning but we'll revisit it later.
